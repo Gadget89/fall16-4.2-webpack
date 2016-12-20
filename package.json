@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tiy-sat/fall16-4.2-webpack/issues"
   },
-  "homepage": "https://github.com/tiy-sat/fall16-4.2-webpack#readme"
+  "homepage": "https://github.com/tiy-sat/fall16-4.2-webpack#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
